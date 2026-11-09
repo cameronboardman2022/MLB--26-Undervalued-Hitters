@@ -60,15 +60,23 @@ Winn recorded a positive .014 xwOBA gap, but his 3.3% barrel rate indicates limi
 
 Both hitters posted positive but relatively small expected-performance gaps. Their inclusion illustrates that the final shortlist contains different types of offensive profiles, not exclusively underperforming hitters.
 
+
 ## Visualizations
 
-The project includes:
+### 2026 Expected vs. Actual Performance
+![Top 10 xwOBA Gaps](2026_top10_woba_gaps.png)
 
-- Expected versus actual offensive performance
-- Contact-quality comparisons
-- Percentile-based player evaluations
-- Multi-season offensive trends
-- Individual player profile visualizations
+### Contact Quality Comparison
+![Contact Quality Comparison](2026_contact_quality_comparison.png)
+
+### Contact Quality Percentiles
+![Contact Quality Percentiles](2026_contact_quality_percentiles.png)
+
+### Offensive Trends: 2024–2026
+![Multi-Season Hitter Trends](2024_2026_hitter_trends.png)
+
+### Player Profile Comparison
+![Player Profile Radar](2026_player_profile_radar.png)
 
 ## Baseball Operations Applications
 
